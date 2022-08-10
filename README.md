@@ -1,6 +1,6 @@
 # Web3 RSVP Dapp
 
-A full-stack RSVP dapp build for 30 Days Of Web3 by Women Build Web3.
+Full-stack web3 RSVP dApp build for 30 Days Of Web3 by Women Build Web3.
 
 ## Links
 
